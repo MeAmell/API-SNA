@@ -400,21 +400,11 @@ def export_to_json():
             'message': str(e)
         }), 500
 
-@app.route('/', methods=['GET'])
-def health_check():
-    """Health check endpoint"""
-    return jsonify({
-        'status': 'healthy',
-        'message': 'SNA API is running'
-    })
+@app.route('/')
+def index():
+    return jsonify({'message': 'Welcome to SNA API'})
+
 
 if __name__ == '__main__':
-    print("Starting SNA Flask API...")
-    print("Available endpoints:")
-    print("- GET /api/sna/network-nodes")
-    print("- GET /api/sna/channel-analysis") 
-    print("- GET /api/sna/complete")
-    print("- GET /api/sna/export-json")
-    print("- GET /")
-
-    app.run(host='0.0.0.0', port=5000)
+    port = int(os.environ.get('PORT', 5050))
+    app.run(debug=False, host='0.0.0.0', port=port)
