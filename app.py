@@ -9,6 +9,8 @@ import os
 app = Flask(__name__)
 CORS(app) 
 
+
+
 class SNAModelGenerator:
     def __init__(self):
         self.platforms = []
@@ -401,10 +403,9 @@ def export_to_json():
         }), 500
 
 @app.route('/')
-def index():
-    return jsonify({'message': 'Welcome to SNA API'})
-
+def home():
+    return "Hello from Railway!"
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 5050))
-    app.run(debug=False, host='0.0.0.0', port=port)
+    port = int(os.environ.get('PORT', 5000))  # ambil dari Railway
+    app.run(host='0.0.0.0', port=port)
