@@ -199,7 +199,7 @@ def load_and_process_data():
     """Load data and create SNA model"""
     global sna_generator
     
-    csv_file_path = "/Users/yuniaameliachairunisa/Documents/SNA/data_komentar_dengan_prediksi.csv"
+    csv_file_path = "data_komentar_dengan_prediksi.csv"
     
     try:
         # Baca data
