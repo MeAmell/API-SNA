@@ -1,0 +1,110 @@
+[
+  {
+    "channel": "Om Mobi",
+    "totalComments": 408,
+    "spamComments": 395,
+    "riskScore": 10.1
+  },
+  {
+    "channel": "Fitra Eri",
+    "totalComments": 1180,
+    "spamComments": 1037,
+    "riskScore": 10.0
+  },
+  {
+    "channel": "Garasi Drift Podcast",
+    "totalComments": 215,
+    "spamComments": 209,
+    "riskScore": 9.9
+  },
+  {
+    "channel": "Den Dimas",
+    "totalComments": 121,
+    "spamComments": 118,
+    "riskScore": 9.9
+  },
+  {
+    "channel": "Motomobi",
+    "totalComments": 806,
+    "spamComments": 707,
+    "riskScore": 9.6
+  },
+  {
+    "channel": "Rifato",
+    "totalComments": 23,
+    "spamComments": 20,
+    "riskScore": 8.7
+  },
+  {
+    "channel": "FUSE BOX",
+    "totalComments": 20,
+    "spamComments": 13,
+    "riskScore": 6.5
+  },
+  {
+    "channel": "Karbida FC",
+    "totalComments": 460,
+    "spamComments": 266,
+    "riskScore": 6.2
+  },
+  {
+    "channel": "GadgetIn",
+    "totalComments": 1455,
+    "spamComments": 618,
+    "riskScore": 5.7
+  },
+  {
+    "channel": "Garasi Drift",
+    "totalComments": 1951,
+    "spamComments": 568,
+    "riskScore": 4.9
+  },
+  {
+    "channel": "Ridwan Hanif",
+    "totalComments": 87,
+    "spamComments": 32,
+    "riskScore": 3.8
+  },
+  {
+    "channel": "Pandji Pragiwaksono",
+    "totalComments": 837,
+    "spamComments": 124,
+    "riskScore": 2.3
+  },
+  {
+    "channel": "Jejelogy",
+    "totalComments": 246,
+    "spamComments": 40,
+    "riskScore": 1.9
+  },
+  {
+    "channel": "Narasi Newsroom",
+    "totalComments": 1453,
+    "spamComments": 4,
+    "riskScore": 1.5
+  },
+  {
+    "channel": "Bus Pesona",
+    "totalComments": 98,
+    "spamComments": 14,
+    "riskScore": 1.5
+  },
+  {
+    "channel": "Atenx Katros",
+    "totalComments": 60,
+    "spamComments": 8,
+    "riskScore": 1.4
+  },
+  {
+    "channel": "Wakil Presiden Republik Indonesia",
+    "totalComments": 804,
+    "spamComments": 2,
+    "riskScore": 0.8
+  },
+  {
+    "channel": "Umbu Gillberth",
+    "totalComments": 6,
+    "spamComments": 0,
+    "riskScore": 0.0
+  }
+]

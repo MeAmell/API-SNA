@@ -1,0 +1,7662 @@
+[
+  {
+    "source": "ReshmaBanu-ml2cn",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanSantoso-e4n",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "SitiSeptiani-m4o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maryadipradipta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "habibijarwa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiFirmansyah-k3p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariSubagio-l7p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MICHEALKlinger",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FikriLestari-z9s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HendraSari-y7d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Adityajarrett-i3j",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AnnGarcia-v3i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EsenEvre",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "iswahyudijumadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JosephMyers-h4b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hermawanridwan-n5q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AysenMuhammet",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "GeraldJackson-b1k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "fabianismail-w6s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ranggaagustian-x5z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BudiSari-f6n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SerpilYasemin-r9p",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "ianwinarno",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cagerhalim",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "waskitajagaraga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gadingsudrajat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jinawiprasetya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "luizChangyivander",
+    "target": "GT86",
+    "weight": 1
+  },
+  {
+    "source": "MegaHartono-i2u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "parmansyahreza",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budimancawuk",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmanaairlangga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaHasibuan-z9s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BurcuEnder",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RinaKhairunnisa-f7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiAndriyani-q4d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budimantirtayasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DesiAyu-p3e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ShanelleDerrick-r6x",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DARRENFuqua",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "firmansyahopung",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Songulilknur-h8p",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "satyautama-c4e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "golukumargolukumar9646",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jaemanhidayat",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "najibrahardian-y8m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MicahCarlton-y5z",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "gangsarhidayanto-o5r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiAyuningtyas-y6x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WahyuAyu-s1w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "marsitosantoso",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "baktiwaluyo-z3x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaMarlina-k6e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaliaNickerson-j5g",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "DidemHaci",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "JokoPermata-m5s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariGunawan-d2q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnjaliJajuan-e5b",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "galihsuwarno-w6z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ismailprasetya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SintaAnggraini-d7u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "tampubolongaiman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Alfinjauza25",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "Alfinjauza25",
+    "target": "R35",
+    "weight": 1
+  },
+  {
+    "source": "EvrimSerkan",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "shivchouhan1251",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "setiawanrendy-r4t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JolleyAshford-o9k",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "lesmanaeja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LAZAROBlake-b6j",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "ardanajayadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HalilDeniz-u8c",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "SariYunita-r4d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ariyaandiyke9888",
+    "target": "AE86",
+    "weight": 1
+  },
+  {
+    "source": "WahyuGunawan-n2j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiYuliani-n8s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Peopleslesleyreimer-b9r",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "danubagaskara-h7l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyseArif-l6h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "JacquelinePatel-h5i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rusmanmandala-o8j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hendrihabibi-d7y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaGunawan-e9k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "martakanarpati",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bakijanadhitama",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriOktaviani-t9h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MarlenaJose-k2b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "gadaprasetya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gamanirendra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiGunawan-z7b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Kecoak-Angop",
+    "target": "G63",
+    "weight": 1
+  },
+  {
+    "source": "SibelTuba",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "Mcveypablomaas-g4q",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "tomiherlambang-o4s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaHartono-w8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gamblangwicaksono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiHasibuan-r7i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniNugraha-w9z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dariminarifin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ENOCHBass-f4l",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "warsaprasetyo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoRamadhan-r3y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ChadGregoryansen-v4h",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "harjakuswoyo-i8u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "madhu4285",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "opungirawan",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GanimYildiz",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "warjimaryadi",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "emilsalahudin-t8g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JamilBender-i8y",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "MERVINJoy-i7e",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "haryantokawaca",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SHADAllman",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "wacanakacung",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "syahrezaempluk",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "QuintenEbony-z4d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "SitiOktarina-m9o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JokoDewi-q6u",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "permadijasmani",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "panduzulkarnain-m4w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cemetigunarto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dadapgunawan-b7r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "auliahanif4457",
+    "target": "G63",
+    "weight": 1
+  },
+  {
+    "source": "hann1230",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "CarmelinaUpshaw",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "pancahidayanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ImaniCormiertobin-i3d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "asmadiardianto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jarwitampubolon",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiYuliani-c3g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BarbLockhart",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "widodomarwata",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "aswaninatsir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CLEVELANDCoombs",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "wijayaihsan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "yogamansur",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "samsulwibisono-t3c",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EvreTugsem",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "kadirzulkarnain-q3j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dacinzulkarnain-q8l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "daryanidamanik",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bahuwarnahakim",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CarolynRussell-e9n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Yusufiklil-s4l",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "luluhnarpati",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lasmantoprabowo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SariSaputro-r2t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "thamrinprabowo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ToshaAbdullah",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "candrakantaardana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "abimanyucawisono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "himawanardana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoKhairunnisa-s8z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaKristanto-f2e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "najmudinrafi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "vinooktovian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoHermawan-o6p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "satrialuis",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "widodolegawa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VictoriaSanford-p1w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Gillisashlinichols-o6f",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "latuponogaluh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "suryonowage",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lamarrajasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sabrifirmansyah-x7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KelleeBerg",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "hardiansyahelvin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kurniawanpangeran",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "respatimangunsong",
+    "target": "DIALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KiyokoAndrus",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "LestariYunita-i9f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "iansatria-i7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "purwadiwahyudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaHidayat-p5y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SifaSantai",
+    "target": "GGWP88",
+    "weight": 1
+  },
+  {
+    "source": "IntanWijaya-m8g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NovitaKartini-t5e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wisnusalahudin-f7c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurSunarto-b2s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasOktaviani-b1j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "capawasita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanYunita-d7d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyuSetiawan-w3j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gamantowicaksono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MaryRoby-p6v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "OneidaLanglois",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "ilyassaptono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmajiharyanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CreelHaines-t7t",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "rendynugraha-n7r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maheswaraemong",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jokorajasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaHartono-l8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "suwarnomursinin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AishiDunit",
+    "target": "X200",
+    "weight": 1
+  },
+  {
+    "source": "dirgantaraasirwada",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnaiPlummer-t5f",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "marasirfandi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prabowohardiansyah-c3o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "OrhanOlcay-y6g",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "VickyOktarina-b2v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gunawanajiono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarSanjaya-n8p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiRamadhan-w8v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyosyahreza",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hermawanvino-j4n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rudiantoni-q9q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurAini-j2u7v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cakrawangsahidayat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiSaputro-g2g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mahdikusumo-o6p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MineKamil-i3j",
+    "target": "DIPULAU77",
+    "weight": 1
+  },
+  {
+    "source": "cengkirabiputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasHidayat-l8p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BudiRamadhan-y3l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lesmanaelvin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SariKartini-x5u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanSanjaya-s1u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "OzgurErem-x5s",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "IndahPuspita-k4x7f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MarshaLassiter",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "dalionogunawan-x5r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ivanadhitama-g9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maheswaramitra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sudrajatgatot",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budimankambali",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaOktaviani-z8f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "yogaabiputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RyleighDelatorre-p9o",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "rohimsalim3067",
+    "target": "Y19",
+    "weight": 1
+  },
+  {
+    "source": "nyomanadriansyah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "niyagamaheswara-v7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JeremiahLawson-i9h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FerdaMehmet-h9r",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "androidmagnum9848",
+    "target": "EP73",
+    "weight": 1
+  },
+  {
+    "source": "MustafaSerhat-z8w",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "nyanamustofa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HeatherRichards-j2x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyoliman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "galarnugroho-h2c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PaulaPrince-p9y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jamalkurniawan-g6p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jakapradana-w8v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradanaadiarja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cakrajiyaherlambang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "syahrezamarsito",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ChantellNewsome",
+    "target": "KA77",
+    "weight": 1
+  },
+  {
+    "source": "JuliannaCamachoansen-d9i",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "kuswoyomariadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NEVILLEMorley-r8r",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "LailaRahmawati-u8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mangunsongmariadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurettinYusuf-z4e",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "permadiokta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mustofarendra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "elnufitdin8660",
+    "target": "N97",
+    "weight": 1
+  },
+  {
+    "source": "jonooo2382",
+    "target": "VR38",
+    "weight": 1
+  },
+  {
+    "source": "jonooo2382",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "suwarnocaturangga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "baktionosyahreza",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mariadipradana-b6z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hartopangestu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagusnarpati",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DediPratama-j8t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ChristianShearer-c7i",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RebekahJohnson-u8f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Zeeeee-o4k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaAini-t4k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradanaluwes",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "januargandewa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "animeshorts5536",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IndahGunawan-r8h",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "LestariYunita-x5x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "purnawarmancawisadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnnMontgomery-m4j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RizkyPratama-j8u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bakimanwinarno",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HendraYunita-n2j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ardiantokarsa-t6j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RizkyOktarina-r7x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RaniMaulana-o9i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bakijansabian",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "tirtayasalazuardi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "taswiranggriawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "setyawaluyo-i8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mariadisalahudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Almahyra7815",
+    "target": "V50",
+    "weight": 1
+  },
+  {
+    "source": "KenanOmer-y1q",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RandallThompson-w4t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MehtapHasan-h5v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "JenniferCline-k1z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ihksannurulmustofa3687",
+    "target": "V50",
+    "weight": 1
+  },
+  {
+    "source": "kusumoluwar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lazuardiprayoga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaSari-w1t2l",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "FRANCISCOEagle-i5b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "caketwacana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BarisGulcin",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AhmadPermata-l1e1h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DediSunarto-s3j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaGunawan-w7v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TawanaRudy",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "budiyantoemil",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kadirlesmana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YuniGunawan-k7g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HOSEARohrer",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "nardinanda",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaPuspita-f4j",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "FikriKartini-y6l",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "WulanPratama-k3r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "herlambanggamblang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayuPratama-e6l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nardipradipta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "saadatalamsyah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaPratama-t6b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanPratama-b3b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CansuGulsah",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "kemalardianto-f9n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JocelynnBullockansen-r3u",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "ajionohidayanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nyomankusumo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "waskitalembah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "anomtarihoran-m4n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiAnggraini-p2n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "respatiyanuar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DiontePinto-p6w",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "TaufikOktaviani-h9f8l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FitriGunawan-j9i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BrianTorres-z9y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "virmanbagaskara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "putragarsela1866",
+    "target": "CX90",
+    "weight": 1
+  },
+  {
+    "source": "putragarsela1866",
+    "target": "CX80",
+    "weight": 1
+  },
+  {
+    "source": "IndahPratama-c9x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RaniKristanto-r1k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ivannarpati-f5x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dadapnanda",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaSaputra-g9y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HakanOvgu",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "prasetyonalar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SintaSetiawan-s9i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriHidayat-e2k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RanggaMaulana-f8b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DizaSantai",
+    "target": "GGWP88",
+    "weight": 1
+  },
+  {
+    "source": "BudiNugroho-t4s",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "TifanyEdmondson",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "EvrimSelami",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "ramadantasnim-c8g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiAini-x3e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gadahidayanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AmyHenderson-n8e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SintaKartika-t7u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasastaumar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RezanAli-l7h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "scienyang6834",
+    "target": "P30",
+    "weight": 1
+  },
+  {
+    "source": "arsipatrauwais",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FitriPermadi-r3n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DesiSanjaya-p7d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "luwardarmawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurulMuhsini",
+    "target": "X200",
+    "weight": 1
+  },
+  {
+    "source": "sabaradriansyah-j4b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NovitaAini-f3s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KeithHolloway-i9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "airlanggadartono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaHidayat-s2t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maulanabakiman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "izzetNizamettin",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "wibowogadang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "irfanoktovian",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "drajatmaryadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurMarlina-s1t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jagapatihaikal",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriNugroho-w7n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyoajimin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BagusWahyudi-r9y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gatrahimawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adhitamajaya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "muhammadharits2593",
+    "target": "CX90",
+    "weight": 1
+  },
+  {
+    "source": "muhammadharits2593",
+    "target": "CX50",
+    "weight": 1
+  },
+  {
+    "source": "malikyulianto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EsraErhan-h1k",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "ArifHasibuan-k9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JulienMoseleyaddison-v4e",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "daryanisatria",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifKartini-p6w",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "IndahKristanto-r5s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiWicaksono-g6p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JamaalIrvin-m4k",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "FikriPuspita-y2v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EsraAylin-x9e",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "EsraEmine-v8b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "kurniawanheru",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "marsitoramadan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "herlambangoskar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "himawangangsa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarFirmansyah-g4q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CrisCedillo-f3v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FikriOktarina-q9y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "handokoluwes-s8f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BariFincher",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "nashiruddinnasrullah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaPratama-t6c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "uwaisdodo",
+    "target": "DIALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaOktaviani-q5f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sabiankayun",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ParisNurfalah",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "setyaprakasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wirasatria-w4z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jailaniwakiman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "megantarabagya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariAyuningtyas-s5q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lukmanhakim-z6g6h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "asmannatsir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IntanAndriyani-o7y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagyaprakasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ramkirit4808",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WahyuAini-q4p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PalmerHolman-z9p",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "LailaPratama-u7h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JEREMIAHGagnon-v7n",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "SamanthaKemp-f5i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HendraAini-j6w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budimannugraha-j6m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "purwadiismail-x2f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SHAUNPalermo-s1h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FikriKurniawan-j9f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagaskaraemong",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lanangsyahreza",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LOUISColvin-l9o",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "ardiantojayadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gantarwidodo-c9p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "edisonprasasta-g1l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mandalacakrawangsa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FatihEsra-g8p",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AgusDewi-p4t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "harsayabagaskara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ardanaedison-d5m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "suwarnohadi-w3e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YogaSaputro-q4i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "McNealLow-t2t",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "dacinwahyudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mangunsongdarijan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "megantaramakuta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jarwananda",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KelsieBarrow-n9w",
+    "target": "ALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "santosohartana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kardiyanuar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "benyriameilana7594",
+    "target": "X20",
+    "weight": 1
+  },
+  {
+    "source": "RinaSunarto-x1b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniKartika-f8w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ParodiGamers182",
+    "target": "U20",
+    "weight": 1
+  },
+  {
+    "source": "MayaWahyudi-m6g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NevrozAhmet",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "KeciaBattles",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FitriKartini-k5t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GarberLeon-d4b",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "ModestaBlackman",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "rendyyanuar-o9w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BagusMarlina-c4b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ZoeEubanks",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "JazzGe8-u9l",
+    "target": "AE86",
+    "weight": 1
+  },
+  {
+    "source": "sudrajatmustika",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CliffordFord-h9c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasKristanto-o3x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HendraHasibuan-u6o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SintaPratama-l9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasSaputro-n2k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MakiyaGerard-n9q",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "EMANUELHoang",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "EkaSaputra-u6e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariPranata-n7k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mahardikapurwadi-t5r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "taufanfirmansyah-o8j",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "THURMANPantoja",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "pradanagarang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "shankaryaadav3750",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasSubagio-p7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurHidayat-n3q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TrippShort-i1m",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "gaimanmaulana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gibranwibisono-p5i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mulyapermadi-e6g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ryoju9876",
+    "target": "Z65",
+    "weight": 1
+  },
+  {
+    "source": "ryoju9876",
+    "target": "Y65",
+    "weight": 1
+  },
+  {
+    "source": "GUSSpalding",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BagusAyuningtyas-l2e",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "DANSeeley-k6w",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "kajenirfandi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "airlanggalukita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AgusKhairunnisa-j4t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adinataprakasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniPratama-c3k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ToniSaputra-e9l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BarisHasan-w9t",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DediYuliani-y7c",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "vinsenanggriawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nugrahamulya-n8j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaRamadhan-k1g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Igg24770",
+    "target": "G63",
+    "weight": 1
+  },
+  {
+    "source": "BERTRAMFontana",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "makutaardana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiSantoso-y3e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "asmanprasetya-m2j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ikinsyahreza",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "timbulherlambang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CemileYasar-v5z",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "vegahaikal",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mahardikakenes",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ramadanestiono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BudiAnggraini-m7n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YuniSubagio-h6v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "martaniprasasta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CaelanKorey-m2u",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "purnamanaradi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lasmantoabiputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasMarlina-z8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndreaMckenzie-p3x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jarwadikuswoyo-j4l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "aryayhuda3597",
+    "target": "ZX100",
+    "weight": 1
+  },
+  {
+    "source": "aryayhuda3597",
+    "target": "ZX1000",
+    "weight": 1
+  },
+  {
+    "source": "devandaepan1168",
+    "target": "TE37",
+    "weight": 1
+  },
+  {
+    "source": "budiyantolamar-u2g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IntanMaulana-d4y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TaufikAyuningtyas-q5o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaSubagio-n5v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TristaShipman",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "LeeAltman-d6m",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "viktorsudrajat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ShanonStory",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RaymondJones-f8o",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "RenAja2",
+    "target": "DONGO88",
+    "weight": 1
+  },
+  {
+    "source": "rajatamakuta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "saefullahdono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TROYMace-f5g",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BudiMarlina-m4n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "zulkarnainjarwa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MrRSauce",
+    "target": "E85",
+    "weight": 1
+  },
+  {
+    "source": "RatnaPermadi-u2p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "yonomandala-w1k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "eminwinarno",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DewiKhairunnisa-r9m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarYunita-d1r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiHasibuan-u6r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaSantoso-z8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "leoyanuar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kenziesaefullah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FadimeYusuf-c3h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "jaemannashiruddin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FitriPuspita-r5j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dartonosaputra-o2k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ardiantodalimin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RobertGarcia-q4t",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "budimancahyadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "damanikraihan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaSantoso-b9c",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "AndrewHolden-d2b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanOktarina-m4h",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "budimegantara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarMaulana-j9r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "galarhidayanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MaryJackson-d9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DoganDemet-f4b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "syaifudinalxzr590",
+    "target": "KATA58",
+    "weight": 1
+  },
+  {
+    "source": "MODESTOMansfield",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "setiawansatya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jefriaswandi-c6j",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WahyuAyuningtyas-m2f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RaniSubagio-w6d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adriansyahtedi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "edwardtampubolon-y8h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AslsyKol-un6mp",
+    "target": "X200",
+    "weight": 1
+  },
+  {
+    "source": "NomaFranklin",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "saputraunggul-s6v5d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "zulkarnainlaksana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SariLestari-y8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanNugroho-w5y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YuniHartono-y5g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaOktarina-j3p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "zakifirmansyah-g3u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MauroKang-q2q",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "ToniWahyudi-e5n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ANDREAAbbott-w5d",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BagusLestari-y8b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kurniajanuar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BlakeEvans-k9o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KatrinaMarion-j3k",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "RubiJordanansen-r1d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AyuFirmansyah-r4u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PersonMckayla-q6r",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AldiNugroho-i6r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HendraHasibuan-o9n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "usmanfirmansyah-t9l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "argonofaresta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gunartojumadi",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "febianhartaka",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "yosefpratama-t6c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wahyudinsabar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BudiHidayat-g7x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyKurniawan-e7p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifWicaksono-t1t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "haikaleman-k3s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TaylanMesut",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "ibunyulianto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "natsiratmaja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "opungnugraha",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DipaliBag-t6t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AaronBuchanan-f6i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyOktarina-j4h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaSunarto-v8k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MariaCameron-o2m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BranhamMeek-d1r",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "BayuKurniawan-e6n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "narpatikoko",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kairavmahardika",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nrimabagaskara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kenesardianto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaHartono-b3m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaPratama-d5z",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "MegaAyuningtyas-w3b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MustafaSezen-r8k",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "MatthewSmith-w7y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PintuTudu-ee3xr",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "feryrahmaddani9727",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "EkaRamadhan-i4u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaLestari-i2c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "putramurti-w6z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "haryantonasrullah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rahardianperkasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "antoniupik",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "firmansyahhairyanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lasmonoprabowo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "limargunarto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmawankadir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "harjasagunarto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DewiSanjaya-k5e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaSanjaya-t3y",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "RaniYuliani-f6h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "renomosher-j3b",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "hardiansyahgibran",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaNugraha-s9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TeaAmato-t5x",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "VINCENTDarnell-v2b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "suryonodarmaji",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ekosabian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiRamadhan-d5w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KEITHMaestas-h1t",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "hendrahaikal-p8c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "danupratama-v3s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "aslijanzulkarnain-f2g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiRamadhan-n6h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BeatrisPacheco-o3d",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DewiKartini-w8j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "aswandiega",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoAyu-x2e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaSantoso-k3w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "yogahidayat-m8m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YuniMarlina-c5o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AhmadMaulana-l3w",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "CihanAtilla-g9v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BagusDewi-v4g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AdaLilley",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "darmanyulianto-n1o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "harjayaputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriPermata-s5w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiPuspita-o6k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "waskitarosman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniKartika-h7j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JokoNugraha-w1q",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "MolinaWaite-o6m",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AdahRudd",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DavidWarner-w7z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayuHidayat-u6s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LorettaLang-k7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gunawanlimar",
+    "target": "DIALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FloodGwyneth-j6p",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "maryadikunthara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "himawannajmudin-p5n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gila_pancing",
+    "target": "VR38",
+    "weight": 1
+  },
+  {
+    "source": "gila_pancing",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "KonuralpAyse",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AndiSubagio-f6s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "baktipurnama-d4b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NovitaSari-n9n",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "dimazprayoga-v7s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cakrawalayudhistira",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ganepwahyudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adeabimanyu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "uwaisjaga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "panjioktavian-i7b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "herlambangbakiono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nandadarsirah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BudiPuspita-j9b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "herlambangbagiya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NovitaPutri-k7e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "satriachandra-m9n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MyersPeter-c1d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "SerenaRomero-u5b",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "HORACIODaley",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AhmadSetiawan-o8z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagaskarapaiman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "iswahyudiprasetya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyNugroho-h8d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "uwaisaswani",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SureyyaMehmet-b1p",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RanggaMarlina-r3w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "oktovianlanang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "asmadiabiputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "firgantorosaka-p6e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AlainaDavidsonansen-s2d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "GERRYCoates-m1y",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "achelzy",
+    "target": "RB26",
+    "weight": 1
+  },
+  {
+    "source": "RICHARDRosen-b6g",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "MujdatFeyza",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "herlambangikin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "caaneedsleep",
+    "target": "RP17",
+    "weight": 1
+  },
+  {
+    "source": "gambiraprasasta",
+    "target": "DIALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CharismaMaynard-f5c",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AldiPermadi-b7o",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "CayleeDaughertydeutsch-y2b",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "RanggaHermawan-q9m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "emongwidodo-d2y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IndahAyuningtyas-k7v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifKartini-j1j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mangunsongartanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniMaulana-u8h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "panduherlambang-v1b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wibowoemong",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Riickk8888",
+    "target": "P30",
+    "weight": 1
+  },
+  {
+    "source": "pranowoasman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "antoninugraha-p4z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SANDYLouie-i7d",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AhmadRahmawati-x8q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kawayautama",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "utamawisnu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarOktarina-e9h",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "WahyuSunarto-f8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GennieFine",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "jayengabiputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriYunita-y3k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ajionosyahreza",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sudrajatbakiono-t9v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagaskarajaya-k4h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AldiAini-j8o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiWahyudi-d2h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiMarlina-x3f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nalararifin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmawanviktor",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "irfandipranata",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hardiansyahpranawa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pratamamarsudi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Awam_Action",
+    "target": "K16",
+    "weight": 1
+  },
+  {
+    "source": "abimanyudadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "putrasabri-r4g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nugrahamegantara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pangestulabuh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JokoAyu-s1v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "luwarhaikal",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaSetiawan-q2j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JuliaRodriguez-i5g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "estionosaputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cengkirpranowo-x4s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "saefullahslamet",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MichaelBates-d6c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RONNYFuchs-p4t",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "emperor0281",
+    "target": "A26",
+    "weight": 1
+  },
+  {
+    "source": "RizkyAyuningtyas-t7m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HECTORMcintire",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "firgantorobakiadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adikaardana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasPermata-m9d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wibisonopranawa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AtakanSerdar",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "mujurhidayat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "reksasantoso",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jatmikomaheswara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wijayapardi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DesiPratama-m3r",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "YogaAini-l4r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kamalkurniawan-u3i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaigleMakiya-o4h",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "NazilHakim-j6n",
+    "target": "AE86",
+    "weight": 1
+  },
+  {
+    "source": "luwarwaskita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "edisonwaskita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoAyu-l3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RanggaKristanto-m6l",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "JokoSaputro-d3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "irfandikenari",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "panduhidayanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanMarlina-d7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaPuspita-d7p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "virmanpangestu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maheswaraumar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CindieGermain",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "ElmerWilkins-x5d",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "hairyantosaefullah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HumeyraSerhat",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "dimasardana-f6m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JalonVallejo-b5q",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "BayuRamadhan-b7g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TaufikSari-w3q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IndahAyuningtyas-q1n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ChristopherStone-v6m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YuniAnggraini-b4v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JEREMIAHWillis-n1c",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "rayhanajiono-e5s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nasabramadan-g2j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "raihanabiputra-g3e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaKurniawan-f6w",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "JokoKristanto-g4h5x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mulyafabian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnisaYuliani-t3g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnisaHermawan-s9o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "setiawankadir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gunawanoskar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dirgantararaden",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JERAMYThai",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "MagdalenaMccue",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "luluhthamrin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "arifinheryanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DewiKristanto-n3l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BeallLedbetter-h9g",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "Fatistian",
+    "target": "V12",
+    "weight": 1
+  },
+  {
+    "source": "niyagaadhitama",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kuntharasabian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "danudarojat-n2i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiOktaviani-p1x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyOktarina-p9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JovanLanemegan-v5q",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AndiLestari-l6r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanDewi-x1b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "OzgurZehra",
+    "target": "VR38",
+    "weight": 1
+  },
+  {
+    "source": "OzgurZehra",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "aliefnaufal6237",
+    "target": "S200",
+    "weight": 1
+  },
+  {
+    "source": "DewiPratama-q2o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hartanaardianto-m8d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "firmansyahkasusra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaSanjaya-y4m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kenarafat6203",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "kenarafat6203",
+    "target": "A90",
+    "weight": 1
+  },
+  {
+    "source": "MaxiePleasant",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FajarPranata-k7j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanOktaviani-m3b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnisaDewi-y8j5w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kusumocawisono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "argonoprayoga-s4r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prayogahardana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LezlieVolk",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "VickyAini-m8i",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "ModestaBlackman",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "pradiptabalangga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanSari-b6j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "eluhwicaksono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MehmetNalan",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "mangunsongheru",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SamanthaGreene-k2c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kairavnatsir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaGunawan-m7r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "yuliantozulfikar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "taufanhabibi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "najmudintedi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "balijanwinarno",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ZerrinSemine",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "rafipranowo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BRITTKunz-c2i",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "LailaKristanto-p1j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wibisonousman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nugrohodwi-y1s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "raharjafirgantoro-n7n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CarmelaGodoy-c6q",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "CarmelaGodoy-c6q",
+    "target": "S10",
+    "weight": 1
+  },
+  {
+    "source": "lukitahalim",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ramauwais-g9o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DewiSaputra-i1n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiWicaksono-v1i",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "gunartoharsana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dwihandoko-l6b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pangestuelvin",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dononugraha",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaRamadhan-w5d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kusumaramadan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmanpurnawarman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prabowovino",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jatmikowidodo-f7g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "triwidyaramadhan7528",
+    "target": "S14",
+    "weight": 1
+  },
+  {
+    "source": "Ulkuhanilknur",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BellaPermadi-y3b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NovitaPranata-t6i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budiyantowakiman",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "shinchangaming7473",
+    "target": "S14",
+    "weight": 1
+  },
+  {
+    "source": "EkoSunarto-l2x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "handokocatur-b8z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiMaulana-v7p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JOSEFContreras-m6t",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DaniHartono-j9p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MurphyMayberry-w8i",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "kokorajata",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriSunarto-m4r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Naruto1094-y9c",
+    "target": "Y700",
+    "weight": 1
+  },
+  {
+    "source": "gunawanjayeng",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "khairilanwarchannel5914",
+    "target": "A16",
+    "weight": 1
+  },
+  {
+    "source": "ridwandirgantara-o4p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiOktaviani-r7d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradiptapanji-e2j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "damanikrusman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "irfandizulfikar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TimothySimpson-u5r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "eluhsetiawan-r3z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KumarVivian-c5f",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "viktoranggriawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gaimanpurnama",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PetrinaYe-y8c",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "VickyHidayat-h3w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nugrohoenteng",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiNugraha-l1g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ariefbudiman7236",
+    "target": "XC90",
+    "weight": 1
+  },
+  {
+    "source": "FikriHasibuan-w2x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ilyasbudiman-m1h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VanesaJewel-v1i",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "salahudinmariadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JansenDezmond-p6j",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "EkoKurniawan-p7s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurSantoso-x6l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "stephzscreamo3887",
+    "target": "RM130",
+    "weight": 1
+  },
+  {
+    "source": "stephzscreamo3887",
+    "target": "RM13000",
+    "weight": 1
+  },
+  {
+    "source": "Krishna_labana55",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradiptawardaya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NizamettinDemet",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "pangestugamblang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JeaneGuerrero-v7t",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "SezginTevfik-z2z",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "dariminpranowo-t9l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyKristanto-e1q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KristineNeal",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "AhmadAyuningtyas-h3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "fabianprasetyo-u6n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasPutri-q3s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanHidayat-x8s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SHAWNSchreiner-t7j",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "airlanggakasusra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IndahKhairunnisa-n7k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "narpatiemong-l2i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JamikaSeitz",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RatnaPermadi-x1m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariSaputro-i2z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kemalwaluyo-v9s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "abimanyukurnia",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "saefullahlanggeng",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "widodogangsar-k8s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dirjautama",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaHasibuan-e7k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SariSanjaya-d4f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gunawanradika",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanSari-u4j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wiratarihoran-l1p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HendraSaputra-n1k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lembahpangestu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budiyantoeluh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndrewHuerta-m5o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BurcuHicran",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "irfanperdana-z5q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ShaquitaPullen",
+    "target": "X500",
+    "weight": 1
+  },
+  {
+    "source": "ShaquitaPullen",
+    "target": "X250",
+    "weight": 1
+  },
+  {
+    "source": "ShaquitaPullen",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "BayuPratama-c9p",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "LailaYunita-s1c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Goldexlkz7461",
+    "target": "R34",
+    "weight": 1
+  },
+  {
+    "source": "darmantosetiawan-b8v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "putrasurya-v2k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mulyonoprakasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rahardianirfan-o6j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ceceprajata",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adriansyaherik",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RyanOliver-g5u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "putudarojat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaAnggraini-f9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DesiLestari-e2u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriAnggraini-h4t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "firgantoroteguh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "megantaradagel",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kardijanuar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bakimanrajasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ardanarosman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AlaysiaManley-b7n",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "jailaniarsipatra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifMaulana-j2q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FitriDewi-t5f",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "SitiYunita-i1o",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "emongzulkarnain",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CoryLeblanc-y8b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "martanawasita-q5l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "artasupriyanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jailaniharimurti",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SevdeOlcay",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "arifinkawaya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darunaarifin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MuneverTayyar",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "PriceBratton-g8e",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "kurniawandigdaya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "airlanggagamblang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maulanajabal-y2h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gamanjailani",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiWahyudi-x3c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "samsuladriansyah-u1r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BriarMollie-d6r",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "gantarramadan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AldiHidayat-f8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniWahyudi-z3t",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "syahrezaprayogo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniNugroho-n7j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayuKristanto-j9m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "irfansupriyanto-v4k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "embuhwasita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "haikalibrahim-e9x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaKartini-y8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TRISTANRucker",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "EkaPermadi-h3r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "akarsanadarojat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budiyantozakir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WahyuKurniawan-o4e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JokoRamadhan-n4n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TAYLOREthridge-v3b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "SintaPratama-f7j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "danangmaheswara-r7j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ramadanjaka",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WahyuHasibuan-v4p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MehmetMehtap-r2c",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "wawanmangunsong",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hakimwarsita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifOktaviani-d7x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wijayawira-z9l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanKristanto-f3g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GeneClemens-k2s",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "harjabagaskara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "karsaiswahyudi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniSunarto-r3h",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "hermawanwarsa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BilginDerya",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FitriHermawan-w3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wibisononardi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MARCELLUSRussell",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "MerrittAnne-p9k",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "Mutasyai22",
+    "target": "V70",
+    "weight": 1
+  },
+  {
+    "source": "hendriaswandi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyRamadhan-m6s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaWahyudi-p4h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaAyu-w5n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budiyantowira",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaWicaksono-y2q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TiffinyCoulter",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "baktiantomansur",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mustofajayeng",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "waluyohidayat-t2q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyodacin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ChadFrazier-z1f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JoannaAndrade-o5v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "suwarnopurwadi-b3d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaHasibuan-o8d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayuPutri-w3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "addinkhoirulmuftindo2872",
+    "target": "R22",
+    "weight": 1
+  },
+  {
+    "source": "xananapradipta-p6y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TroyerJung-e7j",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "budiputra-l1j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarPranata-y6f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "limarnarpati-s3o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BrionesHolly-b1o",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "NisaMaulana-v4y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "balijanrahardian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanPuspita-g6e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnisaSaputra-g5w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiMaulana-r2c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DeionAskew-u1y",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AldiPermadi-b1p",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "HaticeCeyhun-u2v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "Sahziajanona",
+    "target": "BETUL88",
+    "weight": 1
+  },
+  {
+    "source": "SylvieNewman-v7q",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "CLINTONIreland-o7c",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "YogaDewi-v4w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiPuspita-t6w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DESMONDBeckham-m8h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "viewerpositif6850",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "anggriawandipa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FitriDewi-i5j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nashiruddinbakidin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YogaKhairunnisa-f7b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "unggulhidayat-l7z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "karmanmustofa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaAyuningtyas-d9h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jarwipradana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "unggulprasetyo-b2v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AgusGunawan-n9u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PinarTugrul-k9t",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "anggriawankariman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiKartika-v7w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "harjodirgantara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TamaraSmith-g9l",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "RizkyMarlina-u7j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "baktiadimustofa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darojatatmaja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoSantoso-e9b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mandalarudi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LaurenDavis-k9w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "irfandigaman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kasusrahalim",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaNugroho-j3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanNugroho-e5y",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "gambirasabian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pranawarajata-k6m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IndahOktarina-k8p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "deeilpdj",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RaniSeptiani-m6e",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "WulanWahyudi-b3b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "thamrincengkal",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hermawanjasmani",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "narpatiprima",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mujurwahyudin-l8g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayerStringer-o6b",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "natsirpandu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "harsayaardianto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "balarendra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wicaksonolaswi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AnisaHermawan-n4d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dodohidayat-t2b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "UmitSinan",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "IndahRamadhan-i5y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyajoko-v7s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bubbynani1432",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JokoRahmawati-m8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SariPutri-c5n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cemetihabibi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaDewi-v1x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AldiOktarina-r4u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kenariwicaksono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "taufanwahyudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "abimanyubanara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IndahKurniawan-s4p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lesmanaembuh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "abyasaaswandi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MonicaBurgess-j8b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cayadiabiputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JulianClements-s6o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Spiderman-HP",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "Spiderman-HP",
+    "target": "R35",
+    "weight": 1
+  },
+  {
+    "source": "danuputra-b1u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JacquesRebecca-h6w",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "JokoAini-j2l",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "MYSTERIOUS77785",
+    "target": "F150",
+    "weight": 1
+  },
+  {
+    "source": "FajarPratama-r8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaAyuningtyas-t2y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VickyOktarina-s1f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IntanNugraha-c6h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EDGARDOJaramillo-l2y",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DewiHasibuan-o6o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "edwarddarmawan-b5s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KaidenJonatan-o7w",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "galurgunarto-u2r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ErkanYusuf-t7i",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "emassatria-f5y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SwopeWinter-c9j",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "ChristopherMaverick-m4i",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "IrwanSantoso-j7z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaSubagio-c5e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkoHermawan-t1d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nardirendra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ReginaldRyan-g6w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "natsirradika",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TaufikOktarina-h1e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "artaufik2880",
+    "target": "G63",
+    "weight": 1
+  },
+  {
+    "source": "SitiLestari-f5b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarKurniawan-h6y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EVERETTEAlbright",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "lanjarhardiansyah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dariatipermadi-i2r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kuswoyoedi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "luthfiprasasta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariOktaviani-n8z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AlaniAhmad-h9x",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "RatnaWahyudi-s1r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rendraarsipatra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "caturanggayudhistira",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagaskaracahyono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gilanglesmana-b3w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Suwandi-k2p",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "pranowomarsudi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "daruhidayat-u6b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bagaskaratimbul",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndreaCarbone-t4l",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "abimanyuvirman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyopranata-q3j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prayogarendy-q1u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "VueBradshaw-t9l",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "epulsaepul1198",
+    "target": "P30",
+    "weight": 1
+  },
+  {
+    "source": "aceahru1783",
+    "target": "U20",
+    "weight": 1
+  },
+  {
+    "source": "LestariPranata-m3k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "salahudinluwes",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "StyleGuide-k4r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hidayatibrahim-i1k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "carubfebian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wacanaadika",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mandalakemal",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "satriawardi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradiptanajib-c4n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jokonatsir-e6r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmawanomar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kalapradana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "himawanbudiyanto-g8e",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bangriss2481",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "limarbagaskara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bahuwarnagunarto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mahendranalar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AhmetAdem-x7c",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "MelatiSaputro-n6r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarHidayat-x6b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BrynneOswaldo-c4l",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "RanggaAyu-n2y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "raihanadhitama-l2t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KandraLongoria",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "TaufikHartono-e1u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BudiNugroho-t7n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ganjaransaefullah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "saptonoolga",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PinarZerin",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "DermanAli-v3h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "YogaSanjaya-l1d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NZL_14",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaHidayat-o9v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BashamAdrienne-w8q",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AndiWijaya-f7o6w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "daliminthamrin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanHartono-y7c",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "gamanifirmansyah-q9w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaDewi-r9c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "suwarnocakrawala",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ReyhanSelma",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "TanerEray",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "martellwhitaker-m2s",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "elonwaskita",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adriansyahwardi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyselBurhan-pn7ud",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "LailaAnggraini-b1j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "balasaefullah",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradiptasoleh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "adityapurnawarman-h1z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kemaldarmawan-y2h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ChongMurray-i9i",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "BudiKristanto-g2h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "TulaySedat",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "murtiprasetya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AliDidem-g1g",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "JustinFarley-x4g",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "jayadikusumo-l8h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jefrimangunsong-o4n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LynnKennedy-o3r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "artaarifin-d9z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "martakananda",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "tarihoranemil",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sabianprayitna",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jindradamanik",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CalvertKory-j1n",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "IntanGunawan-b1k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dadapabimanyu",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradanaembuh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaSaputra-j9s3i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WulanFirmansyah-o4x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "putrajaswadi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "viktorsalahudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SimenderAsudan",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "MelatiAyuningtyas-x8u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaRahmawati-x6z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "permadilamar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FREDDYHulsey",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AnisaRamadhan-c9m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darojatdasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiRamadhan-s3b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniHartono-o8b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AldiPratama-z3k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mahendraedward",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FarringtonHester-g1j",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "AndiWicaksono-n2u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriDewi-o6h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaSaputro-j3o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YogaOktaviani-l6m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ganjarankurniawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gadingtarihoran-g7y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pravatipalma7497",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AldiRamadhan-d4q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "elonarifin-v8d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wacanahendra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mansurrangga-m9l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "purwakurniawan-j3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BigelowCoulter-f5u",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "DediYuliani-n8h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaKristanto-d8o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiWahyudi-d6c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Asifali-ll7yc",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mahendranajib",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyuPermata-o8g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HeatherReed-q4y",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "Desaidominique-n1e",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "MelatiHidayat-o6v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nugrahaasirwanda",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaSeptiani-n8x",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "AnthonyHerrera-w4z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "martanamaulana-z2h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FitriPranata-z8l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "firgantoroadinata",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "amongwaluyo-w7l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BurakYilmaz-t9v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RinaSubagio-o5z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "supriyantowage",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "uwaisedi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "anompratama-u4f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mansurprabowo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mhmdalll",
+    "target": "G63",
+    "weight": 1
+  },
+  {
+    "source": "CaglaCagdas-fj2eg",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "FitriPermadi-o8c",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "SariWahyudi-t2u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JasonCollins-d7y",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "oktavianjarwi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "JONATHONBurney",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "habibiyusuf-y6z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pranowoempluk",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RaniSari-b2e",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "GoncaSelim-y5h",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BirsenAyse",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "naradisaputra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KellyRios-m8k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WILLIAMMosqueda-f6n",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "wacanagaluh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaGunawan-i2w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rendraadikara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dadiwibisono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyuGunawan-m2c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AldiPermadi-e2g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NurOktaviani-m5z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyuYuliani-d9i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaSaputro-r6q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "PaulettaBocanegra",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "wibowoslamet",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "warsasupriyanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "uwaisgibran",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AmandaRodriguez-b6c",
+    "target": "BERKAH99",
+    "weight": 1
+  },
+  {
+    "source": "GALENSotelo",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "RabiaOsman-x3i",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "winarnoeko-n5m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KENReese-q5v",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "prayogaperkasa-l9w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmawantaufik",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dimaznarpati-i3s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "artawanwahyudin-o4g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hariwijaya-g2k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hidayatkasim-n2u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wasitadamar-u3m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LailaSanjaya-r1t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "KyaraTabor-o3k",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "kenesbudiyanto-h2f",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hermawanmulya-q4k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nandadirja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaYuliani-r8q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "bahuraksasudrajat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sabianlukman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BagusRamadhan-g5s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jaisbagaskara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IntanKurniawan-t7x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pangestugara",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "halimgaiman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rusmankusumo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hawkezed",
+    "target": "U17",
+    "weight": 1
+  },
+  {
+    "source": "NOLANPetty-h2o",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "ZelihaTuba",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "NovitaKartika-e6l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "cahyofaresta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BakiEryılmaz",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "damanikajiono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jamilnajmudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "budimankajen",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "airlanggadigdaya",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayuPratama-v5k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RomonaSettle",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "SitiKristanto-w1h",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "RinaSetiawan-u6r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "jefriuwais",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RatnaKurniawan-m4r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EbonyHerronvicente-w4o",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "indrabagaskara-y7q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "lazuardicaket",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nashiruddingamanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prayogohimawan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BellaPranata-w4o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiSaputro-f9t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "mandalakambali",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MelatiPuspita-u7v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FajarKhairunnisa-o1h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "upikmegantara-p6m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "darmajiprakasa-f5f",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DediHidayat-i9y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ghaninatsir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayKelsy-p4d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "philipspsrska-s8b",
+    "target": "PROBET855",
+    "weight": 1
+  },
+  {
+    "source": "mahardikazakir",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "najmudinprasetyo",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "FikriSetiawan-j3c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaKartini-n6g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "HumeyraSerhat",
+    "target": "NIHH22",
+    "weight": 1
+  },
+  {
+    "source": "RatnaHartono-l2p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prasetyawasis",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "salahudinarta",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "hartorajasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prayogabambang-k2r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiMarlina-n9r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BagusSeptiani-z1y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GERRYDudley-k6u",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "haikalatmaja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sudrajatmitra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SevgulBerfin",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "LestariHartono-m3r",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wicaksonoirsad",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "aswanditaswir",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GatraSongkiling",
+    "target": "R32",
+    "weight": 1
+  },
+  {
+    "source": "GatraSongkiling",
+    "target": "R35",
+    "weight": 1
+  },
+  {
+    "source": "wasisoktavian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "dimas7876",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "dimas7876",
+    "target": "R35",
+    "weight": 1
+  },
+  {
+    "source": "ChristopherJenkins-w9u",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "labuhwicaksono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ibraniaswandi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "pradanaprayitna",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BayuHidayat-r8d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "GoncaCagri",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "AhmadSetiawan-h8p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "aarifaariz3374",
+    "target": "MANUT88",
+    "weight": 1
+  },
+  {
+    "source": "mahendrajinawi",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MirayHicran-p6b",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "balamantrinugraha",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DeedeeHopper",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "cakrajiyawaluyo",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "latuponogara-d9g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RanggaMarlina-f7l",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SimgeCeyhan-m8x",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "CURTISDelaney-o6s",
+    "target": "MANDALIKA-77",
+    "weight": 1
+  },
+  {
+    "source": "nandatasnim",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "CeydaSemih",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "balijanherlambang",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SitiPratama-k3o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "abiputrabalijan",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasRamadhan-i3n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gatrapangestu-u3t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prayogaprayoga-q9q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "zaraina",
+    "target": "VX80",
+    "weight": 1
+  },
+  {
+    "source": "kandapradana-j5q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaAndriyani-z1c",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "luhunghandoko",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YogaDewi-y2s",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaSanjaya-i9j",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "tukangsound",
+    "target": "V50",
+    "weight": 1
+  },
+  {
+    "source": "SabraKaminski",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "panduwahyudin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RizkySetiawan-c6f",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "CosbyKaitlin-f3c",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "LANNYHuey",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "hasimhalim-v5o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "prayogadanuja",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "SintaSaputra-o3g",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Alaysiafrankiejay-v9d",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "IvoryEastman",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "adhiarjapranowo",
+    "target": "DIALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "YuniKristanto-l2i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AndiSari-v2z",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "BermudezEmily-t1v",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "JokoSubagio-j2w",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "zulkarnainelvin",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ardanahardana",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "sokatkhan5258",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MegaHasibuan-l2w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wibowohadi-p6b",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NisaKurniawan-c3z",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "RemziyeEsra",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "Wong_Cilik02",
+    "target": "BJ40",
+    "weight": 1
+  },
+  {
+    "source": "EkoLestari-u6i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "oskarsatria",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gamanigunarto",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RinaAyu-h5y",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "MatthewSpencer-k1q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "maryadiwasita-w4k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "WilliamCarter-l7h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Masadjiocta",
+    "target": "DORA77",
+    "weight": 1
+  },
+  {
+    "source": "RanggaSanjaya-h4m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DimasPratama-o8w",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AyuFirmansyah-h5i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifSanjaya-e4k",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "AgusSunarto-j8k",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "EkaPratama-s8x",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MerveMehmet-e8n",
+    "target": "DALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "bakionoanggriawan-v3d",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "gibranlesmana-m8i",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "NovitaPuspita-w1p",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "IrwanSeptiani-m5y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RichardsAdan-t6p",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "wardanaatma",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "nashiruddinjindra",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Rakesh_prajapat_999",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "munifabian",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "rezaldiaziz1508",
+    "target": "VARIO125",
+    "weight": 1
+  },
+  {
+    "source": "BagusKartika-t7j",
+    "target": "LEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "JOSHUASnodgrass-e6j",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "HutchingsCamron-q5z",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "NurYuliani-u3q",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AgusKartini-t8v",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LatifeNese",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "SantosMcNeal-f5d",
+    "target": "X100",
+    "weight": 1
+  },
+  {
+    "source": "prasastabakiono",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "anggriawanaswani",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "harjosudrajat",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MaritaHansen-f5w",
+    "target": "MANDALIKA77",
+    "weight": 1
+  },
+  {
+    "source": "BayuKartika-y8t",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "ArifPutri-y8h",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "LestariYuliani-m4v",
+    "target": "ALEXIS-17",
+    "weight": 1
+  },
+  {
+    "source": "AnisaMarlina-j5y",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "RudiPermata-l8n",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "DaniYuliani-j1m",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wahyudinomar",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "wardayahaikal",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "firgantorogaluh",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "Ikhsan-ll5jb",
+    "target": "VR38",
+    "weight": 1
+  },
+  {
+    "source": "Ikhsan-ll5jb",
+    "target": "S15",
+    "weight": 1
+  },
+  {
+    "source": "Ikhsan-ll5jb",
+    "target": "R35",
+    "weight": 1
+  },
+  {
+    "source": "jemmyuf9590",
+    "target": "S200",
+    "weight": 1
+  },
+  {
+    "source": "gibranardianto",
+    "target": "LEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "MayaNugroho-n6o",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "AlbaSheffield-k9r",
+    "target": "WETON88",
+    "weight": 1
+  },
+  {
+    "source": "jayengnarpati",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "kusumaprakasa",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "teddypurnawarman",
+    "target": "ALEXIS17",
+    "weight": 1
+  },
+  {
+    "source": "galionosupriyanto",
+    "target": "ALEXIS17",
+    "weight": 1
+  }
+]
