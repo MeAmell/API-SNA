@@ -280,7 +280,7 @@ def evaluate_prediction_accuracy(df):
 def evaluate_model():
     """Endpoint untuk evaluasi akurasi prediksi"""
     try:
-        df = pd.read_csv("/Users/yuniaameliachairunisa/Documents/SNA/data_komentar_dengan_prediksi.csv")
+        df = pd.read_csv("data_komentar_dengan_prediksi.csv")
         result = evaluate_prediction_accuracy(df)
         if result:
             return jsonify({
