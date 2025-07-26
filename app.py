@@ -7,7 +7,7 @@ from collections import defaultdict, Counter
 import os
 
 app = Flask(__name__)
-CORS(app, origins="*") 
+CORS(app)
 
 
 
