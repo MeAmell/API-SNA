@@ -400,7 +400,7 @@ def export_to_json():
             'message': str(e)
         }), 500
 
-@app.route('/health', methods=['GET'])
+@app.route('/', methods=['GET'])
 def health_check():
     """Health check endpoint"""
     return jsonify({
@@ -415,6 +415,6 @@ if __name__ == '__main__':
     print("- GET /api/sna/channel-analysis") 
     print("- GET /api/sna/complete")
     print("- GET /api/sna/export-json")
-    print("- GET /health")
-    
-    app.run(debug=True, host='0.0.0.0', port=5001)
+    print("- GET /")
+
+    app.run(host='0.0.0.0', port=5000)
